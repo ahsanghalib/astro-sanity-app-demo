@@ -1,3 +1,5 @@
+# Astro with Sanity CMS Demo
+
 # Astro Starter Kit: Basics
 
 ```sh
